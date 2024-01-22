@@ -1,0 +1,14 @@
+{
+    "id": "filfac",
+    "name": "Filler Factions",
+    "author": "LazyJayz",
+    "version":{
+        "major":0, 
+        "minor":1, 
+        "patch":0
+    },
+    "description":"Add extra basic factions.",
+    "gameVersion":"0.96a-RC10",
+    "jars":["jars/TODO"],
+    "modPlugin":"TODO"
+}
